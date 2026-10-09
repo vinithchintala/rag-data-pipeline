@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Local Qdrant data (when running without Docker)
+qdrant_data/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

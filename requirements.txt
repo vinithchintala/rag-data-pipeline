@@ -1,0 +1,9 @@
+# Vector database client
+qdrant-client>=1.10.0
+
+# Local embeddings (CPU, no API keys)
+sentence-transformers>=3.0.0
+numpy>=1.24
+
+# Progress bars for embedding batches
+tqdm>=4.65
